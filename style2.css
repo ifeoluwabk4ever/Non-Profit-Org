@@ -1,0 +1,452 @@
+@media screen and (max-width: 1200px) {
+    .footer-head, .donators, .volunteers, .camping-videos, .help-detail, .our-works, .success-story, header, .upcoming-events{
+        padding: 2rem 5rem;
+    }
+    .story-time, .success-img{
+        width: 17.4rem;
+    }
+    .help-1{
+        padding: 0 1rem;
+    }
+    .opac3{
+        width: 100%;
+    }
+    .opac1{
+        padding: 2rem;
+    }
+    .story-prop{
+        width: 25rem;
+    }
+    .story-detail div, .story-detail p{
+        font-size: 0.6rem;
+    }
+    .volunteer-1{
+        padding: 0.7rem;
+    }
+    .volunteer-1>div>div{
+        margin-left: 0.3rem;
+    }
+    .volunteer-1>div>div h2{
+        font-size: 1.3rem;
+    }
+    .volunteer-1>div{
+        margin-bottom: 0.7rem;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .navbar li{
+        padding: 0 0.5rem;
+    }
+    .sign-in{
+        padding: 0.3rem 0.8rem;
+    }
+    .container{
+        max-width: 85%;
+        margin: auto;
+    }
+    .home{
+        height: 70vh;
+    }
+    .home .caption{
+        width: 100%;
+    }
+    .home .caption h1{
+        font-size: 4rem;
+        margin: 0;
+    }
+    .home .caption p{
+        width: 40%;
+    }
+    .subscribe, .footer-head, .donators, .volunteers, .camping-videos, .help-detail, .our-works, .success-story, header, .upcoming-events{
+        padding: 2rem 4rem;
+    }
+    .story-time, .success-img{
+        width: 12rem;
+    }
+    .story-time h2{
+        font-size: 1rem;
+    }
+    .p-area, .help-1 p{
+        font-size: 0.7rem;
+    }
+    .p-area p:last-child{
+        margin: 0.5rem 0.5rem 0 0;
+    }
+    .help-1 h2{
+        font-size: 1.4rem;
+    }
+    .help-1{
+        padding: 0 1rem;
+    }
+    .opac3{
+        padding: 3rem 1rem;
+        font-size: 0.9rem;
+    }
+    .opac1 h1{
+        width: 100%;
+    }
+    .up-story-img{
+        width: 40%;
+    }
+    .story-detail h2{
+        font-size: 1rem;
+    }
+    .story-detail div{
+        display: block;
+        margin: 0.3rem 0;
+    }
+    .story-detail div:last-child{
+        display: flex;
+    }
+    .story-detail > P{
+        line-height: 0.8rem;
+        font-size: 0.5rem;
+    }
+    .donor-1 h2{
+        font-size: 1.2rem;
+    }
+    .donor-1 h5{
+        font-size: 0.7rem;
+    }
+    .volunteer-1>div>div{
+        margin-left: 1rem;
+    }
+    .volunteer-1>div>div h2{
+        font-size: 1rem;
+    }
+    .volunteer-1>div>div h4{
+        font-size: 0.7rem;
+    }
+    .vol-img{
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+    .vol-links a li img{
+        width: 2rem;
+        height: 2rem;
+    }
+    .our-volunteer, .our-donors{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0 auto;
+        width: 80%;
+        place-items: center;
+    }
+    .volunteer-1{
+        width: 12rem;
+        margin-bottom: 1rem;
+    } 
+    .subscribe div{
+        width: 80%;
+    }  
+}
+@media screen and (max-width: 768px) {
+    .footer-head, .donators, .volunteers, .camping-videos, .help-detail, .our-works, .success-story, header, .upcoming-events{
+        padding: 2rem;
+    }
+    .our-volunteer, .our-donors{
+        width: 100%;
+    }
+    header{
+        padding: 2rem 0.5rem;
+    }
+    .navbar{
+        font-size: 0.7rem;
+        margin-top: 0.35rem;
+    }
+    .navbar li{
+        padding: 0 0.3rem;
+    }
+    .sign-in{
+        padding: 0.2rem 0.5rem;
+        font-size: 0.8rem;
+    }
+    .home{
+        height: 50vh;
+    }
+    .home .caption h1{
+        font-size: 3rem;
+    }
+    .top-line{
+        margin-right: 0;
+    }
+    .home .caption p{
+        font-size: 0.8rem;
+        width: 50%;
+        margin: 0;
+    }
+    .home .caption a{
+        padding: 0.5rem;
+        margin: 0.5rem;
+    }
+    .donor-head{
+        margin-bottom: -2rem;
+    }
+    .camping-videos > h1, .work-header h1, .success-head h1, .help-us h1, .upcoming-head h1, .donor-head > h1, .vol-head > h1{
+        font-size: 1.5rem;
+    }
+    .upcoming-head p, .work-header p, .success-head p{
+        font-size: 0.7rem;
+    }
+    .story-prop, .story-time{
+        margin: 1rem auto;
+    }
+    .story-time{
+        display: flex;
+        height: 15rem;
+        width: 20rem;
+    }
+    .story-style{
+        display: block;
+    }
+    .play-wrap div{
+        display: none;
+    }
+    .story-style h2{
+        margin: 0 0 1rem 0;
+        font-size: 0.8rem;
+        border-top-right-radius: 1rem;
+    }
+    .help-detail, .work-story{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .success-img{
+        height: 100%;
+        width: 50%;
+        border-bottom-left-radius: 1rem;
+        border-top-right-radius: 0;
+    }
+    .split-videos, .work-story, .story-lines, .up-story1, .help-detail{
+        display: block;
+    }
+    .help-us h1{
+        padding-bottom: 0;
+    }
+    .help-1{
+        padding-bottom:1rem;
+    }
+    .video-1{
+        height: 25rem;
+        width: 25rem;
+    }
+    .opac3{
+        height: 100%;
+        padding: 1.5rem 1rem;
+    }
+    .opac3 h1{
+        font-size: 0.9rem;
+    }
+    .opac1{
+        height: 100%;
+    }
+    .opac1 h1{
+        font-size: 1.5rem;
+    }
+    .opac1 .play-wrap, .play-wrap{
+        width: 90%;
+    }
+    .video-2{
+        margin: 0 1rem 1rem 1rem;
+    }
+    .video-4{
+        margin: 1rem 1rem 0 1rem;
+    }
+    .video-2, .video-3, .video-4{
+        width: 90%;
+        height: 7.7rem;
+    }
+    .video-series{
+        display: flex;
+    }
+    .subscribe div{
+        width: 100%;
+    }
+    .subscribe div div{
+        padding: 0;
+    }
+    .social-links{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 2rem;
+    }
+    .social-links li{
+    	padding: 0.5rem 0;
+    }
+}
+@media screen and (max-width: 480px) {
+    .navbar, .sign-in{
+        display: none;
+    }
+    /* header{
+        padding: 1rem;
+        color: #69c19b;
+    } */
+    .hamburger{
+        display: block;
+    }
+    .drop-line{
+        position: relative;
+        display: block;
+        z-index: inherit;
+    }
+    .dropdown{
+        display: none;
+        position: absolute;
+        z-index: 4;
+        right: 0;
+        margin-top: 1rem;
+        list-style: none;
+        background: rgba(0,0,0,0.2);
+        top: 1;
+        width: 100%;
+        color: #f3f3f3;
+        text-align: center;
+    }
+    .dropdown a li{
+        padding: 0.2rem;
+        box-shadow: 1px 1px 1px #bcddc0;
+    }
+    .dropdown a li:hover{
+        text-transform: uppercase;
+    }
+
+    .dropdown.pop-out{
+        display: block;
+    }
+    .sign-in2 li{
+        background: rgba(120, 231, 166, 0.5);
+    }
+    .home .caption h1{
+        font-size: 2rem;
+        width: 50%;
+    }
+    .show-desc{
+        margin: 0;
+    }
+    .home{
+        height: 40vh;
+    }
+    .home .caption p{
+        font-size: 0.5rem;
+        width: 50%;
+    }
+    .home .caption a{
+        font-size: 0.7rem;
+        padding: 0.4rem;
+    }
+    .footer-head, .donators, .volunteers, .camping-videos, .help-detail, .our-works, .success-story, header, .upcoming-events{
+        padding: 0.5rem;
+    }
+    .work-story{
+        width: 95%;
+    }
+    .work-words h2{
+        font-size: 1.1rem;
+    }
+    .work-words p{
+        font-size: 0.7rem;
+    }
+    .story-time{
+        width: 18rem;
+        height: 10rem;
+    }
+    .success-img{
+        width: 40%;
+    }
+    .story-style h2{
+        font-size: 0.9rem;
+    }
+    .p-area{
+        font-size: 0.55rem;
+    }
+    .help-detail{
+        width: 100%;
+    }
+    .video-series{
+        display: block;
+    }
+    .split-videos{
+        display: flex;
+    }
+    .video-1{
+        height: 10rem;
+        width: 95%;
+    }
+    .opac3{
+        padding: 0.5rem;
+    }
+    .opac1{
+        padding: 0rem 1rem;
+    }
+    .opac1 h1{
+        font-size: 1rem;
+        padding-top: 2rem;
+    }
+    .opac3 h1{
+        font-size: 0.8rem;
+    }
+    .video-2, .video-3, .video-4{
+        margin:  0.5rem 0.2rem;
+        width: 30%;
+        height: 7.7rem;
+    }
+    .play-wrap{
+        margin:  0.5rem 35%;
+    }
+    .play-wrap p{
+        display: none;
+    }
+    .story-prop{
+        width: 90%;
+    }
+    .story-style h2{
+        font-size: 0.7rem;
+    }
+    .donor-1 h2, .story-detail h2{
+        font-size: 0.9rem;
+    }
+    .donor-1 p, .story-detail div{
+        font-size: 0.6rem;
+    }
+    .volunteer-1{
+        width: 90%;
+    }
+    .volunteer-1 >div{
+        margin: 0.5rem auto;
+        display: block;
+        text-align: center;
+    }
+    .volunteer-1>div>div h2{
+        font-size: 0.8rem;
+    }
+    .volunteer-1>div>div h4{
+        font-size: 0.5rem;
+    }
+    .vol-links{
+        margin: 0 auto;
+        justify-content: space-between;
+    }
+    .vol-links a li img{
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    .subscribe div{
+        display: block;
+    }
+    .subscribe input{
+        padding: 0.3rem;
+        margin-bottom: 0.5rem;
+        width: 100%;
+    }
+    .subscribe a{
+        padding: 0.3rem;
+    }
+    .footer-head ul{
+        line-height: 1.2rem;
+        font-size: 0.7rem;
+    }
+    footer{
+        font-size: 0.6rem;
+    }
+}
